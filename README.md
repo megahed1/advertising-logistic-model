@@ -55,4 +55,4 @@ The dataset contains the following features:
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/megahed1/advertising-logistic-model/blob/main/Advertising_Logistic_Reg.ipynb
+   https://github.com/megahed1/advertising-logistic-model/blob/main/Advertising_Logistic_Reg.ipynb
